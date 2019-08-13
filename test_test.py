@@ -1,4 +1,5 @@
 import pytest
+import allure
 
 @pytest.allure.step
 def make_test_data_foo():
